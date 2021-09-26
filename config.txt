@@ -1,0 +1,70 @@
+[EURUSD]
+paridade = EURUSD
+valor_entrada = 1
+timeframe = 1
+
+[EURJPY]
+paridade = EURJPY
+valor_entrada = 1
+timeframe = 1
+
+[AUDCAD]
+paridade = AUDCAD
+valor_entrada = 1
+timeframe = 1
+
+[EURGBP]
+paridade = EURGBP
+valor_entrada = 1
+timeframe = 1
+
+[AUDUSD]
+paridade = AUDUSD
+valor_entrada = 1
+timeframe = 1
+
+[EURUSD-OTC]
+paridade = EURUSD-OTC
+valor_entrada = 1
+timeframe = 1
+
+[AUDCAD-OTC]
+paridade = AUDCAD-OTC
+valor_entrada = 1
+timeframe = 1
+
+[GBPUSD-OTC]
+paridade = GBPUSD-OTC
+valor_entrada = 1
+timeframe = 1
+
+[NZDUSD-OTC]
+paridade = NZDUSD-OTC
+valor_entrada = 1
+timeframe = 1
+
+[EURJPY-OTC]
+paridade = EURJPY-OTC
+valor_entrada = 1
+timeframe = 1
+
+[EURGBP-OTC]
+paridade = EURGBP-OTC
+valor_entrada = 1
+timeframe = 1
+
+[USDCHF-OTC]
+paridade = USDCHF-OTC
+valor_entrada = 1
+timeframe = 1
+
+[USDJPY-OTC]
+paridade = USDJPY-OTC
+valor_entrada = 1
+timeframe = 1
+
+[AUDCAD-UST]
+paridade = AUDCAD-UST
+valor_entrada = 1
+timeframe = 1
+
